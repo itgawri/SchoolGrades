@@ -18,7 +18,7 @@ print(f"Sam's total percentage as an integer is {total_percentage}%")
 print(f"Sam passed to the next semester: {did_student_pass}")
 print(f"Sam's average is.: {total_medium}")
 
-# -------------------------------------------------------------------------------------
+# PL-------------------------------------------------------------------------------------
 
 imie_studenta = "Sam"
 ocena_matematyka = 88
@@ -40,4 +40,3 @@ print(f"Procentowa ocena Sama jako liczba całkowita wynosi {procent_ocen}%")
 print(f"Sam przeszedł do kolejnego semestru: {czy_student_zdal}")
 print(f"Średnia ważona Sama wynosi: {suma_waga}")
 
-print(suma_ocen)
